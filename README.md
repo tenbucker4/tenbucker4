@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @tenbucker4
-- 👀 I’m an analytical chemist by education, but I'm determined to teach myself programming and eventually become a software developer!
+- Hi, I’m Ben! I’m a chemist by education, but I'm making the change to software development!
 
 <!---
 tenbucker4/tenbucker4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
