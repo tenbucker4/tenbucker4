@@ -1,4 +1,4 @@
-- Hi, I’m Ben! I’m a chemist by education, but I'm making the change to software development!
+- Hi, I’m Ben! I’m a self-taught frontend developer.
 
 <!---
 tenbucker4/tenbucker4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
