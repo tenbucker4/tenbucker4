@@ -1,7 +1,7 @@
 Hi 👋 My name is Ben
 ====================
 
-Self-taught frontend developer
+I'm a self-taught frontend developer
 ------------------------------
 
 M.Sc in Analytical Chemistry, currently teaching myself frontend development
