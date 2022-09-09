@@ -9,7 +9,7 @@ Self-taught software developer excited by solving complex problems, creating int
 * 🌍  I'm based in Vancouver, Canada
 * 🖥️  See my portfolio at [My Portfolio](http://tenbucker4.github.io/personal-portfolio/)
 * ✉️  You can contact me at [bwtucker4@gmail.com](mailto:bwtucker4@gmail.com)
-* 🧠  I'm learning NodeJS and backend technologies
+* 🧠  I'm currently learning Firebase and more advanced React practices
 * ⚡  Love basketball, golf, music, and spending time with friends and family
 
 ### Skills
