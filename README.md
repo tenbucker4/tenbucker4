@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Self-taught software developer excited by solving complex problems, creating intuitive and polished products, and learning new technologies.
+Self-taught frontend developer excited by creating intuitive and polished products, solving complex problems, and learning new technologies.
 
 * 🌍  I'm based in Vancouver, Canada
 * 🖥️  See my portfolio at [My Portfolio](http://tenbucker4.github.io/personal-portfolio/)
