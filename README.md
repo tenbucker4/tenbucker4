@@ -7,7 +7,7 @@ Software Developer
 Self-taught frontend developer excited by creating intuitive and polished products, solving complex problems, and learning new technologies.
 
 * 🌍  I'm based in Vancouver, Canada
-* 🖥️  See my portfolio [here](https://tenbucker4.github.io/portfolio-reloaded/)
+* 🖥️  See my portfolio [here](https://tenbucker4.github.io/ben-tucker/)
 * ✉️  You can contact me at [bwtucker4@gmail.com](mailto:bwtucker4@gmail.com)
 * 🧠  I'm currently learning basic backend technologies and more advanced React practices
 * ⚡  Love basketball, golf, music, and spending time with friends and family
